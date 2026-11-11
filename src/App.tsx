@@ -67,7 +67,7 @@ export default function App() {
               Precision Telemetry & Output
             </h2>
             <p style={{ color: 'rgba(255,255,255,0.75)', lineHeight: 1.6, marginBottom: '2rem' }}>
-              Calibrated performance envelope with real-time operational feedback. Zero synthetic slop, machined to tolerance.
+              Calibrated frequency response with neutral acoustic dispersion, hand-assembled in solid white oak cabinetry.
             </p>
 
             <div style={{ marginBottom: '1.5rem' }}>
